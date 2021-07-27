@@ -1,0 +1,26 @@
+{
+  "name": "package-management-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-mocha": "^8.0.0",
+    "gulp-nodemon": "^2.5.0",
+    "mocha": "^9.0.2",
+    "sharp": "^0.28.3"
+  }
+}
